@@ -23,7 +23,7 @@ impl<'a> PolynomialBuilder<'a> {
         PolynomialBuilder { 
             coefficients: Vec::new(),
             variables: Vec::new(),
-            exponents: Vec::new() 
+            exponents: Vec::new()
         }
     }
     
